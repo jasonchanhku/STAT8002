@@ -14,4 +14,4 @@ Contains the list of images from `data_provider=karolinska` with the count and p
 
 # `radboud_mask_features.csv`
 
-Contains the list of images from `data_provider=radboud` with the count and percent features of the mask values ranging from 1 to 5
+Contains the list of images from `data_provider=radboud` with the count and percent features of the mask values ranging from 1 to 2
